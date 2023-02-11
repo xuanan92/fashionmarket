@@ -1,5 +1,5 @@
 import React from 'react'
-import { BrowserRouter as Router, Routes, Route, NavLink, Link} from "react-router-dom"
+import { Link} from "react-router-dom"
 function Footer() {
   return (
 	<div className = 'grid grid-cols-4 bg-gray-100 w-full mt-auto'>
